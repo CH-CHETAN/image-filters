@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   background: #d9ebf3;
   font-family: arial;
   font-size: 16px;
@@ -33,3 +34,12 @@ input:not([type="file"]):hover {
 .nomarginbottom {
   margin-bottom: 0;
 }
+#btnReset {
+  margin: auto auto;
+  margin-top: 15px;
+}
+#file {
+  margin: auto auto;
+  margin-top: 20px;
+}
+
